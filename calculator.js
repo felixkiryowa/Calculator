@@ -3,8 +3,8 @@ function Add() {
 }
 
 
-function Subtraction() {
- 
+function Subtraction(a, b) {
+    return a - b;
 }
 
 function Multiply() {
@@ -14,3 +14,5 @@ function Multiply() {
 function Divide() {
     
 }
+
+substraction(5,3);
